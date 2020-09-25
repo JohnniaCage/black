@@ -1,0 +1,4 @@
+from math import*
+n=int(input("Километров в день: "))
+m=int(input("Километров всего: "))
+print(ceil(m/n))
